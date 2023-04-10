@@ -22,6 +22,10 @@ A Gauge Chart that displays the weekly washing frequency's value, and display th
 
  ## Want to Run The Dashboard?
 
+You can run the index.html file from your live server extension from VSCode (CORS Error in the Browser) OR
+
+## Deployed page
+
 
 
 
